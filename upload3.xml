@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+<main>
+<user_id>1022680</user_id>
+<msg_count>1</msg_count>
+</main>
+<msg category="/transport/spare-parts/trunks-wheels/r19/" sid="Pārdod" internal_id="1">
+<text>Super Riepas 2023 gadā</text>
+<phones>+371-26540900; +371-26540911</phones>
+  <email>reinis@reinis.lv</email>
+  <url>www.tavasriepas.lv</url>
+  <images>
+<imgs>https://images.1a.lv/display/aikido/store/e286317999cd0cd0106e19af9c097af8.jpg</imgs>
+  </images>
+<options>
+  <opt name="Sezona">Vissezonas</opt>
+  <opt name="Ražotājs">Aeolus</opt>
+<opt name="Platums/Augstums">135/30</opt>
+  <opt name="Modelis">Dahue</opt>
+  <opt name="Indekss">3 (48.7 kg)</opt>
+  <opt name="Ātruma indekss">T (190 km/st.)</opt>
+  <opt name="Stāvoklis">lietota</opt>
+  <opt name="Riepas nozīme">Vieglo automašīnām un mikroautobusiem</opt>
+  <opt name="Protektora atlikums, mm">35</opt>
+  <opt name="Riepas izgatavošanas datums">25.05.2023</opt>
+  <opt name="Cena" currency="€">500</opt>
+</options>
+<region>Rīga</region>
+</msg>
+
+</items>
